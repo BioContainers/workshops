@@ -2,6 +2,7 @@ BICONTAINERS HACKTHON 2017: Reproducible BioInformatics
 ---------------------------------------------------------
 
 Date: 9-11 October 2017
+
 Place: To be defined soon: Paris, France
 
 [BioHachathon Workshop: Eventbrite Registration] (https://www.eventbrite.co.uk/e/biocontainers-hackathon-reproducible-bioinformatics-tickets-35601135956)
