@@ -27,17 +27,23 @@ This group would like to accelerate and consolidate the Containers platform as a
 - **Talk**: Dockerfile - based BioContainers: (**Olivier Sallou, France**)
 - Planning of the Activities for 2 days Hackathon (**Yasset Perez-Riverol, EMBL-EBI, UK**)
 
-Hackathon Topics:
+#### Hackathon Topics:
  - Containers (BioContainers) and Packages (BioConda) Specification:
    - Metadata: Minimun Metadata, Base Images and Versioning.
    - Metadata for Training Containers
    - Metadata Validator.
+
  - BioContainers Deployment Architecture:
    - Mulled BioContainers Architeure: Current Struture and Improvements.
    - DockerFile-based Biocntainers Architecture: Current Structure and Improvements.
+
  - **Hackathon**: Review of current BioContainers:
    -  Solve Duplications, broken and non-functional containers.
    -  Create and Build current requested Containers.
+   - Training session on BioContainers and Containers in BioInformatics
+
+ - Poster Sessions & Use Cases Collections
+ - **Wrap-up of the session**
 
 ### October 10 - 2017
 
@@ -45,7 +51,9 @@ Hackathon Topics:
 - Talk: Invited Speaker
 - Talk: BioContainers Registries, Deployment (**Yasset Perez-Riverol, EMBL-EBI, UK**)
 
-Hackathon Topics:
+#### Hackathon Topics:
+
+- Singularity Images.
 
 - Workflows and BioContainers:
   - Automatic creation of MultiContainers.
@@ -53,8 +61,26 @@ Hackathon Topics:
   - Annotation/Storage of Multi-Containers.
   - Examples and Best Practices Guidelines for multiple-tools containers.
 
-- Registry  
+- BioContainers/Conda Registry:
+  - Improvements of Metadata Search.
+  - Reimplementation to handle BioConda/BioContainers/Singularity recipies.
+  - Registry API.
+  - CLI tool with same campabilities that the Web Interface.
+- Poster Sessions & Use Cases Collections
+- **Wrap-up of the session**
+
 ### October 11 - 2017
+
+- Engagement with Community/Insdustry/Journals
+- Publications RoadMap and Grants/Fundings Posibilities
+- ELIXIR Software Deployment Group & BioContainers Group
+  - Organization
+  - RoadMap
+  - Integration with other Initiatives.
+  - Plans for 2018.
+
+- Conclusions and Wrap-up of the Hackathon.
+
 
 ## Bibliography
 [1] Leprevost, F. D. V.; Grüning, B. A.; Aflitos, S. A.; Röst, H. L.; Uszkoreit, J.; Barsnes, H.; Vaudel, M.; Moreno, P.; Gatto, L.; Weber, J.; et al. BioContainers: an open-source and community-driven framework for software standardization. Bioinformatics 2017.
