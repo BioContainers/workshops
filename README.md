@@ -27,7 +27,12 @@ This group would like to accelerate and consolidate the Containers platform as a
 - Planning of the Activities for 2 days Hackathon (**Yasset Perez-Riverol, EMBL-EBI, UK**)
 
 Hackathon Topics:
- 
+ - Containers (BioContainers) and Packages (BioConda) Specification:
+   - Metadata: Minimun Metadata, Base Images and Versioning.
+   - Metadata Validator.
+ - BioContainers Deployment Architecture:
+   - Mulled BioContainers Architeure: Current Struture and Improvements.
+   - DockerFile-based Biocntainers Architecture: Current Structure and Improvements.  
 
 ### October 10 - 2017
 
