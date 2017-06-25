@@ -2,11 +2,12 @@ BICONTAINERS HACKTHON 2017: Reproducible BioInformatics
 ---------------------------------------------------------
 
 Date: 9-11 October 2017
+
 Place: To be defined soon: Paris, France
 
-{::nomarkdown}
+
 <div><iframe  src="https://www.eventbrite.co.uk/calendar-widget?eid=35601135956" frameborder="0" height="552" marginheight="0" marginwidth="0" scrolling="no" allowtransparency="true"></iframe><div></div></div>
-{::nomarkdown}
+
 
 ## Purpose
 
@@ -22,6 +23,7 @@ This group would like to accelerate and consolidate the Containers platform as a
 ## Draft Agenda
 
 
-Bibliography
+## Bibliography
 [1] Leprevost, F. D. V.; Grüning, B. A.; Aflitos, S. A.; Röst, H. L.; Uszkoreit, J.; Barsnes, H.; Vaudel, M.; Moreno, P.; Gatto, L.; Weber, J.; et al. BioContainers: an open-source and community-driven framework for software standardization. Bioinformatics 2017.
+
 [2] Moreews, F.; Sallou, O.; Ménager, H.; Bras, Y. L.; Monjeaud, C.; Blanchet, C.; Collin, O. BioShaDock: a community driven bioinformatics shared Docker-based tools registry. F1000Research 2015.
