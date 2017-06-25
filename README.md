@@ -19,6 +19,7 @@ This group would like to accelerate and consolidate the Containers platform as a
 ## Current Agenda
 
 ### October 9  - 2017
+
 - Registration & Welcome, Introduction (Someone from Host)
 - Talk: BioContainers: Current Status and Challenges (**Yasset Perez-Riverol, EMBL-EBI, UK**)
 - Talk: Invited Speaker
@@ -32,11 +33,11 @@ Hackathon Topics:
    - Metadata Validator.
  - BioContainers Deployment Architecture:
    - Mulled BioContainers Architeure: Current Struture and Improvements.
-   - DockerFile-based Biocntainers Architecture: Current Structure and Improvements.  
+   - DockerFile-based Biocntainers Architecture: Current Structure and Improvements.
 
 ### October 10 - 2017
 
-### October 11 - 2017
+### October 11 - 2017
 
 ## Bibliography
 [1] Leprevost, F. D. V.; Grüning, B. A.; Aflitos, S. A.; Röst, H. L.; Uszkoreit, J.; Barsnes, H.; Vaudel, M.; Moreno, P.; Gatto, L.; Weber, J.; et al. BioContainers: an open-source and community-driven framework for software standardization. Bioinformatics 2017.
