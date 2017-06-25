@@ -4,7 +4,9 @@ BICONTAINERS HACKTHON 2017: Reproducible BioInformatics
 Date: 9-11 October 2017
 Place: To be defined soon: Paris, France
 
+{::nomarkdown}
 <div><iframe  src="https://www.eventbrite.co.uk/calendar-widget?eid=35601135956" frameborder="0" height="552" marginheight="0" marginwidth="0" scrolling="no" allowtransparency="true"></iframe><div></div></div>
+{::nomarkdown}
 
 ## Purpose
 
@@ -18,7 +20,7 @@ This group would like to accelerate and consolidate the Containers platform as a
 - In addition, we will define a strategy (Metadata) for “Training Containers”, design an infrastructure for hosting containers in ELIXIR and engage the training community to create containers for training purposes. We will start developing containers for training.
 
 ## Draft Agenda
- 
+
 
 Bibliography
 [1] Leprevost, F. D. V.; Grüning, B. A.; Aflitos, S. A.; Röst, H. L.; Uszkoreit, J.; Barsnes, H.; Vaudel, M.; Moreno, P.; Gatto, L.; Weber, J.; et al. BioContainers: an open-source and community-driven framework for software standardization. Bioinformatics 2017.
