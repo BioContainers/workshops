@@ -21,22 +21,39 @@ This group would like to accelerate and consolidate the Containers platform as a
 ### October 9  - 2017
 
 - Registration & Welcome, Introduction (Someone from Host)
-- Talk: BioContainers: Current Status and Challenges (**Yasset Perez-Riverol, EMBL-EBI, UK**)
-- Talk: Invited Speaker
-- Mulled: Automatic Creation of Dockerfile-free BioContainers (**Bjorn, Freiburg, Germany**)
-- Dockerfile - based BioContainers: (**Olivier Sallou, France**)
+- **Talk**: BioContainers: Current Status and Challenges (**Yasset Perez-Riverol, EMBL-EBI, UK**)
+- **Talk**: Invited Speaker
+- **Talk**: Mulled: Automatic Creation of Dockerfile-free BioContainers (**Bjorn, Freiburg, Germany**)
+- **Talk**: Dockerfile - based BioContainers: (**Olivier Sallou, France**)
 - Planning of the Activities for 2 days Hackathon (**Yasset Perez-Riverol, EMBL-EBI, UK**)
 
 Hackathon Topics:
  - Containers (BioContainers) and Packages (BioConda) Specification:
    - Metadata: Minimun Metadata, Base Images and Versioning.
+   - Metadata for Training Containers
    - Metadata Validator.
  - BioContainers Deployment Architecture:
    - Mulled BioContainers Architeure: Current Struture and Improvements.
    - DockerFile-based Biocntainers Architecture: Current Structure and Improvements.
+ - **Hackathon**: Review of current BioContainers:
+   -  Solve Duplications, broken and non-functional containers.
+   -  Create and Build current requested Containers.
 
 ### October 10 - 2017
 
+- Talk: Galaxy Workflows integration with Containers. (**Bjorn, Freiburg, Germany**)
+- Talk: Invited Speaker
+- Talk: BioContainers Registries, Deployment (**Yasset Perez-Riverol, EMBL-EBI, UK**)
+
+Hackathon Topics:
+
+- Workflows and BioContainers:
+  - Automatic creation of MultiContainers.
+  - Workflow dependency conversion to MuntiBioContainer.
+  - Annotation/Storage of Multi-Containers.
+  - Examples and Best Practices Guidelines for multiple-tools containers.
+
+- Registry  
 ### October 11 - 2017
 
 ## Bibliography
