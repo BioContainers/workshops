@@ -23,6 +23,7 @@ This group would like to accelerate and consolidate the Containers platform as a
 - Registration & Welcome, Introduction (Someone from Host)
 - **Talk**: BioContainers: Current Status and Challenges (**Yasset Perez-Riverol, EMBL-EBI, UK**)
 - **Talk**: Invited Speaker
+- **Talk**: ELIXIR Training (Invited Speaker)
 - **Talk**: Mulled: Automatic Creation of Dockerfile-free BioContainers (**Bjorn, Freiburg, Germany**)
 - **Talk**: Dockerfile - based BioContainers: (**Olivier Sallou, France**)
 - Planning of the Activities for 2 days Hackathon (**Yasset Perez-Riverol, EMBL-EBI, UK**)
@@ -30,7 +31,7 @@ This group would like to accelerate and consolidate the Containers platform as a
 #### Hackathon Topics:
  - Containers (BioContainers) and Packages (BioConda) Specification:
    - Metadata: Minimun Metadata, Base Images and Versioning.
-   - Metadata for Training Containers
+   - Metadata for Training Containers.
    - Metadata Validator.
 
  - BioContainers Deployment Architecture:
@@ -38,8 +39,9 @@ This group would like to accelerate and consolidate the Containers platform as a
    - DockerFile-based Biocntainers Architecture: Current Structure and Improvements.
 
  - **Hackathon**: Review of current BioContainers:
-   -  Solve Duplications, broken and non-functional containers.
-   -  Create and Build current requested Containers.
+   - Solve Duplications, broken and non-functional containers.
+   - Create and Build current requested Containers.
+   - Creation of Training Containers.
    - Training session on BioContainers and Containers in BioInformatics
 
  - Poster Sessions & Use Cases Collections
@@ -66,7 +68,9 @@ This group would like to accelerate and consolidate the Containers platform as a
   - Reimplementation to handle BioConda/BioContainers/Singularity recipies.
   - Registry API.
   - CLI tool with same campabilities that the Web Interface.
-- Poster Sessions & Use Cases Collections
+
+- **Hackathon**: Creation of Training Containers.
+- Poster Sessions & Use Cases Collections.
 - **Wrap-up of the session**
 
 ### October 11 - 2017
