@@ -2,10 +2,10 @@
 
 <feed xmlns="http://www.w3.org/2005/Atom" >
   <generator uri="https://jekyllrb.com/" version="3.5.1">Jekyll</generator>
-  <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
-  <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2017-08-09T13:56:44+01:00</updated>
-  <id>http://localhost:4000/</id>
+  <link href="https://biocontainers.pro/workshops/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="https://biocontainers.pro/workshops/" rel="alternate" type="text/html" />
+  <updated>2017-08-09T14:18:35+01:00</updated>
+  <id>https://biocontainers.pro/workshops/</id>
 
   
     <title type="html">BioContainers Hackthon</title>
@@ -21,11 +21,11 @@
   
     <entry>
       <title type="html">Project 1</title>
-      <link href="http://localhost:4000/biocontainers%20specification/2014/07/18/project-1/" rel="alternate" type="text/html" title="Project 1" />
+      <link href="https://biocontainers.pro/workshops/biocontainers%20specification/2014/07/18/project-1/" rel="alternate" type="text/html" title="Project 1" />
       <published>2014-07-18T00:00:00+01:00</published>
       <updated>2014-07-18T00:00:00+01:00</updated>
-      <id>http://localhost:4000/biocontainers%20specification/2014/07/18/project-1</id>
-      <content type="html" xml:base="http://localhost:4000/biocontainers%20specification/2014/07/18/project-1/"></content>
+      <id>https://biocontainers.pro/workshops/biocontainers%20specification/2014/07/18/project-1</id>
+      <content type="html" xml:base="https://biocontainers.pro/workshops/biocontainers%20specification/2014/07/18/project-1/"></content>
 
       
       
@@ -55,11 +55,11 @@
   
     <entry>
       <title type="html">Project 2</title>
-      <link href="http://localhost:4000/biocontainer%20for%20training/2014/07/17/project-2/" rel="alternate" type="text/html" title="Project 2" />
+      <link href="https://biocontainers.pro/workshops/biocontainer%20for%20training/2014/07/17/project-2/" rel="alternate" type="text/html" title="Project 2" />
       <published>2014-07-17T00:00:00+01:00</published>
       <updated>2014-07-17T00:00:00+01:00</updated>
-      <id>http://localhost:4000/biocontainer%20for%20training/2014/07/17/project-2</id>
-      <content type="html" xml:base="http://localhost:4000/biocontainer%20for%20training/2014/07/17/project-2/"></content>
+      <id>https://biocontainers.pro/workshops/biocontainer%20for%20training/2014/07/17/project-2</id>
+      <content type="html" xml:base="https://biocontainers.pro/workshops/biocontainer%20for%20training/2014/07/17/project-2/"></content>
 
       
       
@@ -89,11 +89,11 @@
   
     <entry>
       <title type="html">Project 3</title>
-      <link href="http://localhost:4000/biocontainer%20and%20workflows/2014/07/16/project-3/" rel="alternate" type="text/html" title="Project 3" />
+      <link href="https://biocontainers.pro/workshops/biocontainer%20and%20workflows/2014/07/16/project-3/" rel="alternate" type="text/html" title="Project 3" />
       <published>2014-07-16T00:00:00+01:00</published>
       <updated>2014-07-16T00:00:00+01:00</updated>
-      <id>http://localhost:4000/biocontainer%20and%20workflows/2014/07/16/project-3</id>
-      <content type="html" xml:base="http://localhost:4000/biocontainer%20and%20workflows/2014/07/16/project-3/"></content>
+      <id>https://biocontainers.pro/workshops/biocontainer%20and%20workflows/2014/07/16/project-3</id>
+      <content type="html" xml:base="https://biocontainers.pro/workshops/biocontainer%20and%20workflows/2014/07/16/project-3/"></content>
 
       
       
