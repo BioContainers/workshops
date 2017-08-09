@@ -1,73 +1,61 @@
-#------------------------------------------------------------
-# Values for this workshop.
-#------------------------------------------------------------
+# Site settings
+title: BioContainers Hackthon
+email: biodocker@gmail.com
+url: https://biocontainers.pro/workshop
+description: "The “ELIXIR Software Deployment Group” is one of the six working groups of the ELIXIR tools platform. It has been recently formed to support bioinformatics software deployment efforts including packages and containers. At the moment this group is sustained by ELIXIR Nodes sharing a common interest to work together on a harmonised strategy. The activities of this group are extremely relevant to other two groups within ELIXIR Tools platforms: “Workflows & workbenches” and “Software development best practices” because it represents the starting point for the development of reproducible pipelines and workflows in bioinformatics.
+              This group would like to accelerate and consolidate the Containers Platform as a Service, and the integration with other groups like Workflows & workbenches and Software tools (Bio.Tools). To do so we proposed to have a 2.5 days hackathon. In practice the hackathon will give us the opportunity to work on three different topics:
+              Improve the current metadata and definitions for BioContainers and increase the number of containers in  Biocontainers.
+              Integration of Biocontainers (https://biocontainers.pro/) and other initiatives Bioshadock (http://bioshadock.genouest.org/), BioConda.
+              Connect better the containers registry (http://biocontainers.pro/registry) with Bio.tools and Workflow systems such as Galaxy and CWL.
+              Define a strategy (Metadata) for “Training Containers”, design an infrastructure for hosting containers in ELIXIR and engage the training community to create containers for training purposes."
+keywords: "BioContainers, Docker, rkt, Bioinformatics"
+skills: "BioContainers, Docker, rkt, Bioinformatics"
+meta_author: BioContainers Group
 
-# Which carpentry is this ("swc", "dc", or "lc")?
-carpentry: "swc"
+# Google webmaster tools
+google_verify:
 
-# Overall title for pages.
-title: "Workshop Title"
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:
 
-# Contact email address.
-email: lessons@software-carpentry.org
+# Contact form:
+# - static : pass through formspree.io to validate email sending
+# - disqus : replace contact form by disqus thread
+# - comment the line below if you want to stick with the default PHP contact form
+contact: static
 
-#------------------------------------------------------------
-# Generic settings (should not need to change).
-#------------------------------------------------------------
+# If you use disqus you need disqus shortname
+# https://help.disqus.com/customer/portal/articles/466208
+disqus_shortname: myshortname
 
-# What kind of thing is this ("workshop" or "lesson")?
-kind: "workshop"
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: 18bc9c #80B3FF
+  primary-rgb: "24,288,156" #"128,179,255"
+  secondary: 2c3e50 #FD6E8A
+  secondary-dark: 233140 #A2122F
 
-# Magic to make URLs resolve both locally and on GitHub.
-# See https://help.github.com/articles/repository-metadata-on-github-pages/.
-repository: <USERNAME>/<PROJECT>
+# Footer settings
+footer:
+  copyright: BioContainers Group
 
-# Sites.
-amy_site: "https://amy.software-carpentry.org/workshops"
-lc_site: "https://librarycarpentry.github.io/"
-dc_site: "http://datacarpentry.org"
-swc_github: "https://github.com/swcarpentry"
-swc_site: "https://software-carpentry.org"
-swc_pages: "https://swcarpentry.github.io"
-template_repo: "https://github.com/swcarpentry/styles"
-example_repo: "https://github.com/swcarpentry/lesson-example"
-example_site: "https://swcarpentry.github.com/lesson-example"
-workshop_repo: "https://github.com/swcarpentry/workshop-template"
-workshop_site: "https://swcarpentry.github.io/workshop-template"
-training_site: "https://swcarpentry.github.io/instructor-training"
-swc_installer: "https://github.com/swcarpentry/windows-installer/releases/download/v0.3/SWCarpentryInstaller.exe"
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: https://twitter.com/biocontainers
+  - title: stack-overflow
+    url: http://stackoverflow.com/questions/tagged/BioContainers
+  - title: github
+    url: http://github.com/BioContainers
 
-# Surveys.
-swc_pre_survey: "https://www.surveymonkey.com/r/swc_pre_workshop_v1?workshop_id="
-swc_post_survey: "https://www.surveymonkey.com/r/swc_post_workshop_v1?workshop_id="
-dc_pre_survey: "https://www.surveymonkey.com/r/dcpostworkshopassessment?workshop_id="
-dc_post_survey: "https://www.surveymonkey.com/r/dcpostworkshopassessment?workshop_id="
+# Postal address (add as many lines as necessary)
+address:
+  - line: 9-11 October 2017
+  - line: Paris, France
 
-# Start time in minutes (0 to be clock-independent, 540 to show a start at 09:00 am)
-start_time: 0
+# Credits content
+credits: 'Freelancer is a template created using Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
 
-# Specify that things in the episodes collection should be output.
-collections:
-  episodes:
-    output: true
-    permalink: /:path/
-  extras:
-    output: true
-
-# Set the default layout for things in the episodes collection.
-defaults:
-  - values:
-      root: ..
-  - scope:
-      path: ""
-      type: episodes
-    values:
-      layout: episode
-
-# Files and directories that are not to be copied.
-exclude:
-  - Makefile
-  - bin
-
-# Turn off built-in syntax highlighting.
-highlighter: false
+# Build settings
+markdown: kramdown
+permalink: pretty

@@ -1,0 +1,13 @@
+---
+layout: default
+modal-id: 3
+date: 2014-07-16
+img: game.png
+alt: image-alt
+urlProject: biocontainers.pro
+titleName: BioContainer and Workflows
+project-date: 11 October 2017
+category: BioContainer and Workflows
+description: During the Hackathon we will discuss the integration between BioContainers and various initiatives such as <strong>Galaxy</strong> and <strong>CWL</strong>
+
+---

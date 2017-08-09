@@ -1,0 +1,13 @@
+---
+layout: default
+modal-id: 2
+date: 2014-07-17
+img: cake.png
+alt: image-alt
+urlProject: tess.elixir-europe.org
+titleName: BioContainer for Training
+project-date: 9 October 2017
+category: BioContainer for Training
+description: During the Hackathon various containers will be created for training and a new specification will be created for Training containers in collaboration with <a href="tess.elixir-europe.org"> ELIXIR Training Group </a>
+
+---

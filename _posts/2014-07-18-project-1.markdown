@@ -1,0 +1,13 @@
+---
+layout: default
+modal-id: 1
+date: 2014-07-18
+img: cabin.png
+alt: image-alt
+urlProject: www.biocontainers.pro
+titleName: BioContainer Specification
+project-date: 9 October 2017
+category: BioContainers Specification
+description: The discussion of the metadata/specification of BioContainers will be a major topic of the Hackathon and How this metadata will be integrated with other initiatives like <a href="https://bio.tools/">BioTools</a>
+
+---
