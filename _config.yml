@@ -1,7 +1,7 @@
 # Site settings
 title: BioContainers Hackthon
 email: biodocker@gmail.com
-url: https://biocontainers.pro/workshop
+url: https://biocontainers.pro/workshops
 description: "The “ELIXIR Software Deployment Group” is one of the six working groups of the ELIXIR tools platform. It has been recently formed to support bioinformatics software deployment efforts including packages and containers. At the moment this group is sustained by ELIXIR Nodes sharing a common interest to work together on a harmonised strategy. The activities of this group are extremely relevant to other two groups within ELIXIR Tools platforms: “Workflows & workbenches” and “Software development best practices” because it represents the starting point for the development of reproducible pipelines and workflows in bioinformatics.
               This group would like to accelerate and consolidate the Containers Platform as a Service, and the integration with other groups like Workflows & workbenches and Software tools (Bio.Tools). To do so we proposed to have a 2.5 days hackathon. In practice the hackathon will give us the opportunity to work on three different topics:
               Improve the current metadata and definitions for BioContainers and increase the number of containers in  Biocontainers.
