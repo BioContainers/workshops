@@ -52,7 +52,7 @@ This group would like to accelerate and consolidate the Containers platform as a
 ### October 10 - 2017
 
 - (9:00 - 9:15) Galaxy Workflows integration with Containers. (**Talk, Bjorn, Freiburg, Germany**)
-- (9:15 - 9:30) Phenomenal2020: Metabolomics Analysis in the Cloud (**Talk, Pablo Moreno, EMBL-EBI, UK**)
+- (9:15 - 9:30) PhenoMeNal overview and container orchestration for Galaxy batch scheduling with Kubernetes (**Talk, Pablo Moreno, EMBL-EBI, UK**)
 - (9:30 - 9:45) PRIDE and ProteoGenomics in Cloud (**Yasset Perez-Riverol, EMBL-EBI, UK**)
 
 #### Hackathon Topics:
