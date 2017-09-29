@@ -2,7 +2,7 @@ BICONTAINERS HACKTHON 2017: Reproducible Bioinformatics
 ---------------------------------------------------------
 
 - Date: 9-11 October 2017
-- Place: To be defined soon: Paris, France
+- Place: Institut Henri Poincaré, 11 Rue Pierre et Marie Curie, 75005 Paris, France
 - [BioHachathon Workshop: Eventbrite Registration](https://www.eventbrite.co.uk/e/biocontainers-hackathon-reproducible-bioinformatics-tickets-35601135956)
 
 ## Purpose
@@ -20,16 +20,18 @@ This group would like to accelerate and consolidate the Containers platform as a
 
 ### October 9  - 2017
 
-- Registration & Welcome, Introduction (Someone from Host)
-- **Talk**: BioContainers: Current Status and Challenges (**Yasset Perez-Riverol, EMBL-EBI, UK**)
-- **Talk**: Invited Speaker
-- **Talk**: ELIXIR Training (Invited Speaker)
-- **Talk**: Mulled: Automatic Creation of Dockerfile-free BioContainers (**Bjorn, Freiburg, Germany**)
-- **Talk**: Dockerfile - based BioContainers: (**Olivier Sallou, France**)
-- Planning of the Activities for 2 days Hackathon (**Yasset Perez-Riverol, EMBL-EBI, UK**)
+- (9:00  - 9:10  AM) Registration & Welcome, Introduction (Someone from Host)
+- (9:10  - 9:30  AM) BioContainers: Current Status and Challenges (**Talk, Yasset Perez-Riverol, EMBL-EBI, UK**)
+- (9:30  - 9:50  AM) **Talk**: Invited Speaker
+- (9:50  - 10:10 AM) ELIXIR Training (**Talk, Eija Korpelainen, Finland**)
+- (10:10 - 10:30 AM) Coffee Break
+- (10:30 - 10:45 AM) BioConda and Mulled: Automatic Creation of Dockerfile-free BioContainers (**Talk, Bjorn, Freiburg, Germany**)
+- (10:45 - 11:00 AM) Dockerfile - based BioContainers: (**Talk, Olivier Sallou, France**)
+- (11:00 - ) Planning of the Activities for 2 days Hackathon (**Yasset Perez-Riverol, EMBL-EBI, UK**)
 
 #### Hackathon Topics:
- - Containers (BioContainers) and Packages (BioConda) Specification:
+
+- Containers (BioContainers) and Packages (BioConda) Specification:
    - Metadata: Minimun Metadata, Base Images and Versioning.
    - Metadata for Training Containers.
    - Metadata Validator.
@@ -49,9 +51,9 @@ This group would like to accelerate and consolidate the Containers platform as a
 
 ### October 10 - 2017
 
-- Talk: Galaxy Workflows integration with Containers. (**Bjorn, Freiburg, Germany**)
-- Talk: Invited Speaker
-- Talk: BioContainers Registries, Deployment (**Yasset Perez-Riverol, EMBL-EBI, UK**)
+- (9:00 - 9:15) Galaxy Workflows integration with Containers. (**Talk, Bjorn, Freiburg, Germany**)
+- (9:15 - 9:30) Phenomenal2020: Metabolomics Analysis in the Cloud (**Talk, Pablo Moreno, EMBL-EBI, UK**)
+- (9:30 - 9:45) PRIDE and ProteoGenomics in Cloud (**Yasset Perez-Riverol, EMBL-EBI, UK**)
 
 #### Hackathon Topics:
 
@@ -75,6 +77,8 @@ This group would like to accelerate and consolidate the Containers platform as a
 
 ### October 11 - 2017
 
+- (9:00 - ) Hackathon 
+
 - Engagement with Community/Insdustry/Journals
 - Publications RoadMap and Grants/Fundings Posibilities
 - ELIXIR Software Deployment Group & BioContainers Group
@@ -83,7 +87,7 @@ This group would like to accelerate and consolidate the Containers platform as a
   - Integration with other Initiatives.
   - Plans for 2018.
 
-- Conclusions and Wrap-up of the Hackathon.
+- (12:00 AM) Conclusions and Wrap-up of the Hackathon.
 
 
 ## Bibliography
