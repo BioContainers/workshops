@@ -49,7 +49,8 @@ The “ELIXIR Software Deployment Group” is one of the six working groups of t
    - DockerFile-based Biocntainers Architecture:
       - Current Structure and Improvements.
       - Future architecture. 
-      - Initial implementation of DockerFile-based containers. 
+      - Initial implementation of DockerFile-based containers.
+   - Singularity Images.
    
 #### Hackathon on Current Containers (2:00 - 6:00 PM) 
 
@@ -61,47 +62,58 @@ The “ELIXIR Software Deployment Group” is one of the six working groups of t
 
 #### Poster Sessions & Use Cases Collections (6:00 - 7:00 PM)
 
-#### **Wrap-up of the sessions**
+#### Wrap-up of the sessions
 
-### October 10 - 2017
+## October 10 - 2017
 
-- (9:00 - 9:15) Galaxy Workflows integration with Containers. (**Talk, Bjorn, Freiburg, Germany**)
-- (9:15 - 9:30) PhenoMeNal overview and container orchestration for Galaxy batch scheduling with Kubernetes (**Talk, Pablo Moreno, EMBL-EBI, UK**)
-- (9:30 - 9:45) PRIDE and ProteoGenomics in Cloud (**Yasset Perez-Riverol, EMBL-EBI, UK**)
+- (9:00  - 9:15  AM) Galaxy Workflows integration with Containers. (**Talk, Bjorn, Freiburg, Germany**)
+- (9:15  - 9:30  AM) PhenoMeNal overview and container orchestration for Galaxy batch scheduling with Kubernetes (**Talk, Pablo Moreno, EMBL-EBI, UK**)
+- (9:30  - 9:45  AM) PRIDE and ProteoGenomics in Cloud (**Yasset Perez-Riverol, EMBL-EBI, UK**)
+- (10:00 - 10:20 AM) Coffee Break. 
 
-#### Hackathon Topics:
+### Hackathon Topics:
 
-- Singularity Images.
+#### Workflows and BioContainers (10:20 - 1:00 PM)
 
-- Workflows and BioContainers:
-  - Automatic creation of MultiContainers.
+  - MultiTools containers: Current approach and challenges. 
+  - Automatic creation of MultiTools Containers.
   - Workflow dependency conversion to MuntiBioContainer.
   - Annotation/Storage of Multi-Containers.
-  - Examples and Best Practices Guidelines for multiple-tools containers.
+  - Examples and Best Practices Guidelines for MultiTools containers.
 
-- BioContainers/Conda Registry:
+#### Parallel Session: BioContainers/Conda Registry (2:00 - 4:00 PM) 
+
   - Improvements of Metadata Search.
   - Reimplementation to handle BioConda/BioContainers/Singularity recipies.
   - Registry API.
   - CLI tool with same campabilities that the Web Interface.
 
-- **Hackathon**: Creation of Training Containers.
-- Poster Sessions & Use Cases Collections.
-- **Wrap-up of the session**
+#### Parallel Session: Creation of Training Containers (2:00 - 6:00 PM) 
+  
+  - Creation of Training Containers. 
+  - Creation of Workflow Containers using multitools approach.   
 
-### October 11 - 2017
+#### Wrap-up of the sessions
 
-- (9:00 - ) Hackathon 
+### October 11 - 2017 
 
-- Engagement with Community/Insdustry/Journals
-- Publications RoadMap and Grants/Fundings Posibilities
-- ELIXIR Software Deployment Group & BioContainers Group
-  - Organization
-  - RoadMap
-  - Integration with other Initiatives.
+#### (9:00 - ) Parallel Session: Hackathon. 
+ 
+  - Creation of Training Containers. 
+  - Creation of Workflow Containers using multitools approach.
+
+#### (9:00 - ) Parallel Session: Community Engagement.  
+
+  - Engagement with Community/Insdustry/Journals
+  - Publications RoadMap and Grants/Fundings Posibilities
+    - Discussion of current Grant proposal in ELIXIR.  
+  - ELIXIR Software Deployment Group & BioContainers Group
+    - Organization
+    - RoadMap
+    - Integration with other Initiatives.
   - Plans for 2018.
 
-- (12:00 AM) Conclusions and Wrap-up of the Hackathon.
+- (11:30 AM) Conclusions and Wrap-up of the Hackathon.
 
 
 ## Bibliography
