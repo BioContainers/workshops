@@ -1,4 +1,4 @@
-BICONTAINERS HACKTHON 2017: Reproducible Bioinformatics
+BICONTAINERS HACKATHON 2017: Reproducible Bioinformatics
 ---------------------------------------------------------
 
 - Date: 9-11 October 2017
@@ -23,11 +23,10 @@ This group would like to accelerate and consolidate the Containers platform as a
 - (9:00  - 9:10  AM) Registration & Welcome, Introduction (Someone from Host)
 - (9:10  - 9:30  AM) BioContainers: Current Status and Challenges (**Talk, Yasset Perez-Riverol, EMBL-EBI, UK**)
 - (9:30  - 9:50  AM) **Talk**: Invited Speaker
-- (9:50  - 10:10 AM) ELIXIR Training (**Talk, Eija Korpelainen, Finland**)
-- (10:10 - 10:30 AM) Coffee Break
-- (10:30 - 10:45 AM) BioConda and Mulled: Automatic Creation of Dockerfile-free BioContainers (**Talk, Bjorn, Freiburg, Germany**)
-- (10:45 - 11:00 AM) Dockerfile - based BioContainers: (**Talk, Olivier Sallou, France**)
-- (11:00 - ) Planning of the Activities for 2 days Hackathon (**Yasset Perez-Riverol, EMBL-EBI, UK**)
+- (9:50 - 10:05 AM) BioConda and Mulled: Automatic Creation of Dockerfile-free BioContainers (**Talk, Bjorn, Freiburg, Germany**)
+- (10:05 - 10:20 AM) Dockerfile - based BioContainers: (**Talk, Olivier Sallou, France**)
+- (10:20 - ) Planning of the Activities for 2 days Hackathon (**Yasset Perez-Riverol, EMBL-EBI, UK**)
+- (10:20 - 10:45) Coffee Break
 
 #### Hackathon Topics:
 
