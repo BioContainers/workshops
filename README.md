@@ -3,7 +3,7 @@ BICONTAINERS HACKATHON 2017: Reproducible Bioinformatics
 
 - Date: 9-11 October 2017
 - Place: Institut Henri Poincaré, 11 Rue Pierre et Marie Curie, 75005 Paris, France
-- [BioHachathon Workshop: Eventbrite Registration](https://www.eventbrite.co.uk/e/biocontainers-hackathon-reproducible-bioinformatics-tickets-35601135956)
+- [BioHachathon Workshop: Eventbrite Registration](https://www.eventbrite.co.uk/e/biocontainers-hackathon-reproducible-bioinformatics-tickets-35601135956) (**Closed**)
 
 # Purpose
 
