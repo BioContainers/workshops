@@ -39,6 +39,17 @@ The “ELIXIR Software Deployment Group” is one of the six working groups of t
       - Identifiers handling to other metadata services such as biotools, pubmed, or omicstools. 
    - Metadata for Training Containers.
    - Metadata Validator Tool. 
+   
+#### Parallel Session: Training session in BioContainers (10:40 - 1:00 PM).
+     Trainer (Olivier Sallou)     
+ 
+ - What is Docker, rkt? Seeting your machine.   
+ - What is BioContainers? 
+ - How to create a BioContainers.  
+   - Dockerfile Container. 
+   - Conda Package Container. 
+ - How to contribute with BioContainers. 
+ 
 
 #### Architecture Session (2:00 - 4:00 PM) 
  
