@@ -20,7 +20,6 @@ The “ELIXIR Software Deployment Group” is one of the six working groups of t
 
 - (9:00  - 9:10  AM) Registration & Welcome, Introduction (Someone from Host)
 - (9:10  - 9:30  AM) BioContainers: Current Status and Challenges (**Talk, Yasset Perez-Riverol, EMBL-EBI, UK**)
-- (9:30  - 9:50  AM) **Talk**: Invited Speaker
 - (9:50  - 10:05 AM) BioConda and Mulled: Automatic Creation of Dockerfile-free BioContainers (**Talk, Bjorn, Freiburg, Germany**)
 - (10:05 - 10:20 AM) Dockerfile - based BioContainers: (**Talk, Olivier Sallou, France**)
 - (10:20 -         ) Planning of the Activities for 2 days Hackathon (**Yasset Perez-Riverol, EMBL-EBI, UK**)
@@ -50,7 +49,6 @@ The “ELIXIR Software Deployment Group” is one of the six working groups of t
    - Conda Package Container. 
  - How to contribute with BioContainers. 
  
-
 #### Architecture Session (2:00 - 4:00 PM) 
  
  - BioContainers Deployment Architecture:
@@ -71,15 +69,13 @@ The “ELIXIR Software Deployment Group” is one of the six working groups of t
  - Creation of Training Containers.
    - Training session on BioContainers and Containers in BioInformatics
 
-#### Poster Sessions & Use Cases Collections (6:00 - 7:00 PM)
-
 #### Wrap-up of the sessions
 
 ## October 10 - 2017
 
-- (9:00  - 9:15  AM) Galaxy Workflows integration with Containers. (**Talk, Bjorn, Freiburg, Germany**)
-- (9:15  - 9:30  AM) PhenoMeNal overview and container orchestration for Galaxy batch scheduling with Kubernetes (**Talk, Pablo Moreno, EMBL-EBI, UK**)
-- (9:30  - 9:45  AM) PRIDE and ProteoGenomics in Cloud (**Yasset Perez-Riverol, EMBL-EBI, UK**)
+- (9:00  - 9:20  AM) Galaxy Workflows integration with Containers. (**Talk, Bjorn, Freiburg, Germany**)
+- (9:20  - 9:40  AM) Docker-based genomics tools and workflows (**Talk, Brian D. O'Connor, US**)
+- (9:40  - 10:00 AM) Common Workflow languages and containers  (**Talk, Michael R Crusoe, US**)
 - (10:00 - 10:20 AM) Coffee Break. 
 
 ### Hackathon Topics:
@@ -107,6 +103,10 @@ The “ELIXIR Software Deployment Group” is one of the six working groups of t
 #### Wrap-up of the sessions
 
 ### October 11 - 2017 
+
+- (9:00  - 9:20  AM) PRIDE and ProteoGenomics in Cloud (**Yasset Perez-Riverol, EMBL-EBI, UK**)
+- (9:20  - 9:40  AM) PhenoMeNal overview and container orchestration for Galaxy batch scheduling with Kubernetes (**Talk, Pablo Moreno, EMBL-EBI, UK**)
+
 
 #### (9:00 - ) Parallel Session: Hackathon. 
  
