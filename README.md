@@ -1,4 +1,4 @@
-BICONTAINERS HACKATHON 2017: Reproducible Bioinformatics
+BIOCONTAINERS HACKATHON 2017: Reproducible Bioinformatics
 ---------------------------------------------------------
 
 - Date: 9-11 October 2017
@@ -18,7 +18,7 @@ The “ELIXIR Software Deployment Group” is one of the six working groups of t
 
 ## October 9  - 2017
 
-- (9:00  - 9:10  AM) Registration & Welcome, Introduction (Someone from Host)
+- (9:00  - 9:10  AM) Registration & Welcome, Introduction (Victoria Dominguez Del Angel, IFB Elixir-FR)
 - (9:10  - 9:30  AM) BioContainers: Current Status and Challenges (**Talk, Yasset Perez-Riverol, EMBL-EBI, UK**)
 - (9:50  - 10:05 AM) BioConda and Mulled: Automatic Creation of Dockerfile-free BioContainers (**Talk, Bjorn, Freiburg, Germany**)
 - (10:05 - 10:20 AM) Dockerfile - based BioContainers: (**Talk, Olivier Sallou, France**)
