@@ -84,7 +84,7 @@ The “ELIXIR Software Deployment Group” is one of the six working groups of t
 
   - MultiTools containers: Current approach and challenges. 
   - Automatic creation of MultiTools Containers.
-  - Workflow dependency conversion to MuntiBioContainer.
+  - Workflow dependency conversion to MultiBioContainer.
   - Annotation/Storage of Multi-Containers.
   - Examples and Best Practices Guidelines for MultiTools containers.
 
