@@ -39,7 +39,7 @@ The “ELIXIR Software Deployment Group” is one of the six working groups of t
       - Minimun Metadata inside each container. 
       - Base Images 
       - Versioning
-      - Identifiers handling to other metadata services such as biotools, pubmed, or omicstools. 
+      - Identifiers handling to other metadata services such as biotools, pubmed, RRID ([example](https://identifiers.org/rrid/RRID:SCR_005476)), or omicstools. 
    - Metadata for Training Containers.
       - Use Cases. 
       - Integration with Tess ELIXIR 
