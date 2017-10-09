@@ -33,6 +33,7 @@ The “ELIXIR Software Deployment Group” is one of the six working groups of t
 - BioContainers Metadata Specification: 
    - Predicted name space?
    - Containers (BioContainers) and Packages (BioConda) Current Specification.
+   - BioContainers for Services and databases (e.g. https://github.com/reactome/container)
    - BioContainers Metadata
       - License: Mandatory? 
       - Minimun Metadata inside each container. 
