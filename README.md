@@ -34,6 +34,7 @@ The “ELIXIR Software Deployment Group” is one of the six working groups of t
    - Predicted name space?
    - Containers (BioContainers) and Packages (BioConda) Current Specification.
    - BioContainers Metadata
+      - License: Mandatory? 
       - Minimun Metadata inside each container. 
       - Base Images 
       - Versioning
