@@ -30,6 +30,7 @@ The “ELIXIR Software Deployment Group” is one of the six working groups of t
 #### Metadata Session (10:40 - 1:00 PM)
 
 - BioContainers Metadata Specification: 
+   - Predicted name space?
    - Containers (BioContainers) and Packages (BioConda) Current Specification.
    - BioContainers Metadata
       - Minimun Metadata inside each container. 
