@@ -37,7 +37,10 @@ The “ELIXIR Software Deployment Group” is one of the six working groups of t
       - Versioning
       - Identifiers handling to other metadata services such as biotools, pubmed, or omicstools. 
    - Metadata for Training Containers.
-   - Metadata Validator Tool. 
+      - Use Cases. 
+      - Integration with Tess ELIXIR 
+      - Data?, Materials?
+   - Metadata Validator Tool. (**Hackathon**) Someone interested?  
    
 #### Parallel Session: Training session in BioContainers (10:40 - 1:00 PM).
      Trainer (Olivier Sallou)     
