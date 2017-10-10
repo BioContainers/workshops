@@ -112,6 +112,9 @@ The “ELIXIR Software Deployment Group” is one of the six working groups of t
   - Creation of Workflow Containers using multitools approach.   
 
 #### Wrap-up of the sessions
+#### Working Dinner at 7h30 PM at "Le Procope", 13 rue de l'Ancienne Comédie 75006 Paris
+
+
 
 ### October 11 - 2017 
 
