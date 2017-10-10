@@ -90,10 +90,14 @@ The “ELIXIR Software Deployment Group” is one of the six working groups of t
 #### Workflows and BioContainers (10:20 - 1:00 PM)
 
   - MultiTools containers: Current approach and challenges. 
-  - Automatic creation of MultiTools Containers.
   - Workflow dependency conversion to MultiBioContainer.
-  - Annotation/Storage of Multi-Containers.
-  - Examples and Best Practices Guidelines for MultiTools containers.
+
+#### Parallel Session: Hackathon (10:20 - 1:00 PM)
+  
+  - Creation of training containers (Rafael Jimenez, Victoria, Yasset Perez-Riverol). 
+  - Annotation of BioConda/BioDocker Containers with Biotools Ids. 
+  - Architecture for deployment of containers (Pablo Moreno / Olivier Sallou)
+    
 
 #### Parallel Session: BioContainers/Conda Registry (2:00 - 4:00 PM) 
 
