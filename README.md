@@ -94,7 +94,7 @@ The “ELIXIR Software Deployment Group” is one of the six working groups of t
 
 #### Parallel Session: Hackathon (10:20 - 1:00 PM)
   
-  - Creation of training containers (Rafael Jimenez, Victoria, Yasset Perez-Riverol). 
+  - Creation of training containers (Rafael Jimenez, Victoria, Yasset Perez-Riverol, Mateusz Kuzak). 
   - Annotation of BioConda/BioDocker Containers with Biotools Ids. 
   - Architecture for deployment of containers (Pablo Moreno / Olivier Sallou)
     
